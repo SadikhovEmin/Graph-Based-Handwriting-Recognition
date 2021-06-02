@@ -1,1 +1,1 @@
-# Graph-Based-Handwriting-Recognition
+# A Fast Matching Algorithm For Graph-Based-Handwriting-Recognition
