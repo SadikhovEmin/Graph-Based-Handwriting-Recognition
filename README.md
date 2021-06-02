@@ -3,7 +3,9 @@
 
 CS 333 - Analysis of Algorithms
 Emin Sadikhov, Esad Simitcioglu
+
 Spring 2021
+
 Title: A Fast Matching Algorithm for Graph-Based Handwriting Recogni-
 tion
 
